@@ -30,16 +30,16 @@
 	//Library shortcuts for the YUI Library
 	STAPX.Y = {
 		
-		Dom = YAHOO.util.Dom,
-		Event = YAHOO.util.Event,
-		byClass = Dom.getElementsByClassName;
+		Dom : YAHOO.util.Dom,
+		Event : YAHOO.util.Event,
+		byClass : YAHOO.util.Dom.getElementsByClassName
 		
 	}
 	
 	//Componant Namespaces
 	STAPX.widgets = {};
 	
-})()
+})();
 
 (function(){
 	
@@ -217,5 +217,4 @@
 		return public_methods;
 		
 	}
-	
 })();
