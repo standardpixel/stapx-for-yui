@@ -1,0 +1,20 @@
+Standard Pixel JavaScript Library for YUI 2x
+							
+Version : 0
+Tested with YUI Version : 2.6.0
+Author : Eric Gelinas
+
+This library is for utilities and widgets that
+I have built on top of YUI.
+
+There are enough libraries out there so lets
+start extending the ones we have ;-)
+
+++++++++++++++++++++++++++++++++++++++++++++++
+Usage:
+++++++++++++++++++++++++++++++++++++++++++++++
+Find the appropriate version in the "builds"
+directory. Files are named with their
+compatible version of YUI, then
+underscore "_", then the type of build 
+(Raw or minified).
